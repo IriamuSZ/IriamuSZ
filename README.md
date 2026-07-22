@@ -33,7 +33,7 @@
   * **Descripción:** Investigación y desarrollo de estrategias de Machine Learning para mitigar la incertidumbre en modelos predictivos en espacios de alta dimensionalidad.
   * **Stack:** Python, Librerías avanzadas de ML/Deep Learning.
 
-* **Análisis y Predicción de Quiebra Empresarial (Polonia)** *(Feb. 2025 - May. 2025)*
+* **[Análisis y Predicción de Quiebra Empresarial (Polonia)](https://github.com/IriamuSZ/Analisis_economico_polonia)** *(Feb. 2025 - May. 2025)*
   * **Descripción:** Modelo predictivo end-to-end bajo metodología CRISP-DM para anticipar el riesgo de quiebra empresarial en datasets de 64 atributos.
   * **Técnicas:** Tratamiento de outliers, Backward Feature Selection, ensamblados (Random Forest, Bagging, Boosting) y validación cruzada (10-Fold).
   * **Stack:** KNIME Analytics Platform, JavaScript (cuadro de mando interactivo).
